@@ -47,8 +47,6 @@ I am a passionate **Data Analyst** and **Business Analyst** with hands-on experi
   <img src="https://img.shields.io/badge/-A/B%20Testing-FF6F00?style=flat-square&logo=adobe&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p> 
 ---
 
